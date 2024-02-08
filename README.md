@@ -6,6 +6,11 @@ Hello!
 
 This challenge utilizes Flask, Python, and Redis. Below are the Docker files provided. Ensure Docker is installed on your system.
 
+##redis-pre-requisites:
+brew install redis.
+redis-start
+
+
 receipt-challenge-fetch/
 └── receipt-challenge/
     ├── backend/
