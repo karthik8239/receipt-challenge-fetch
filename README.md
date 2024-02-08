@@ -6,13 +6,13 @@ Hello!
 
 This challenge utilizes Flask, Python, and Redis. Below are the Docker files provided. Ensure Docker is installed on your system.
 
-##project-structure
-  receipt-challenge-fetch/
+receipt-challenge-fetch/
 └── receipt-challenge/
     ├── backend/
     │   ├── app.py
     │   └── unit-tests.py
     └── docker-compose.yml
+
 
 ## Cloning the Repository
 
